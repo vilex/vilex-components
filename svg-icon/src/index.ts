@@ -5,8 +5,10 @@ import { svg } from './svg';
 
 export const SvgIcon = defineComponent(
     (iconName: string) => svg(
+        
         use({
-            'xlink:href': `#${iconName}`
+            'xlink:href': `#${iconName}`,
+            href: `#${iconName}`
         })
     )
 )
