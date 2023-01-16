@@ -1,0 +1,15 @@
+{
+  "name": "vilex-components",
+  "type": "module",
+  "exports": {
+    "./radio": {
+      "import": "./radio/src/index.ts"
+    },
+    "./slides": {
+      "import": "./slides/src/index.ts"
+    },
+    "./bullet-screen": {
+      "import": "./bullet-screen/src/index.ts"
+    }
+  }
+}
