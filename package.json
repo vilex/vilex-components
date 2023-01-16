@@ -11,7 +11,7 @@
     "./bullet-screen": {
       "import": "./bullet-screen/src/index.ts"
     },
-    "./SvgIcon": {
+    "./svg-icon": {
       "import": "./svg-icon/src/index.ts"
     }
   }
