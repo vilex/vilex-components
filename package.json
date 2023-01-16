@@ -10,6 +10,9 @@
     },
     "./bullet-screen": {
       "import": "./bullet-screen/src/index.ts"
+    },
+    "./SvgIcon": {
+      "import": "./svg-icon/src/index.ts"
     }
   }
 }
